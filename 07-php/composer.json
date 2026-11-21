@@ -1,0 +1,9 @@
+{
+  "name": "dev-journey/php-notes",
+  "description": "PHP learning notes, examples and exercises",
+  "type": "project",
+  "require": {
+    "php": ">=8.1"
+  },
+  "license": "MIT"
+}
