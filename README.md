@@ -18,3 +18,4 @@ npm test
 | Day | Track | Topic |
 |---|---|---|
 | 001 | JavaScript | Variables and data types |
+| 002 | PHP | Full PHP track: docs, examples, exercises, tests (`07-php/`) |
