@@ -19,3 +19,4 @@ npm test
 |---|---|---|
 | 001 | JavaScript | Variables and data types |
 | 002 | PHP | Full PHP track: docs, examples, exercises, tests (`07-php/`) |
+| 003 | Python | Variables and data types (`02-python/`) |
